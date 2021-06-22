@@ -1,0 +1,30 @@
+.maindiv
+{
+    width: 800px;
+    height: 700px;
+    background-color:rgb(234, 153, 241);
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    padding: 50px;
+}
+.line
+{
+    border-top: 3px dotted black;
+}
+.order-list
+{
+    display: flex;
+    list-style-type: none; 
+    margin-left:150px;
+
+}
+li
+{
+    border-right:2px solid black;
+    padding:3px;   
+}
+p
+{
+    text-align:left;
+}
